@@ -8,13 +8,39 @@ body,html{
     height: 100%;
     margin:0 auto;
     padding:0 auto;
-    text-align: center
+    text-align: center;
 }
 .judul{
-    font-family: sans-serif;
-    font-size: 50px;
-    font-display: block;
-    color: darkslategray;
+    font-family: cursive;
+    font-size: 70px;
+    font: bold;
+    color: black;
 }
-.sub-judul{}
-.isi{}
+.sub-judul{
+    font-family: cursive;
+    font-stretch: semi-expanded;
+    font-size: 40px;
+    color: black;
+}
+.section2{
+    padding:100px 0px;
+    background: #ffffff;
+}
+.judul1{
+    font-family: cursive;
+    font-size: 50px;
+    color: #800000;
+}
+.sub-judul1{
+    font-family: cursive;
+    font-size: 20px;
+    color: #800000;
+}
+.cool-kiri{
+    background: #FFA07A;
+}
+.cool-kanan{
+    background: #800000;
+    font-family: cursive;
+    color: #FFA074;
+}
