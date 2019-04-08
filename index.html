@@ -12,7 +12,24 @@
     </head>
     <!----section1--->
     <body>
-    <section class="section1">
+        <!---navbar--->
+         <nav class="navbar navbar-expand-lg bg-light fixed-top">
+            <div class="container">
+                <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarnya">
+                    <i class="fas fa-align-justify"></i>
+                </button>
+                <div class="collapse navbar-collapse" id="navbarnya">
+                    <div class="navbar-nav">
+                        <a class="link" href="#home">home </a>
+                        <a class="link" href="#profile">profile </a>
+                        <a class="link" href="#about us">about us </a>
+                        <a class="link" href="http://instagram" target="_blank"> ig q </a>
+                    </div>
+                </div>
+            </div>
+        </nav>
+        <!---section1--->
+    <section class="section1" id="home">
         <img src="img/logo.png">
         <h1 class="judul">
         TEMPAT BELAJAR ANAK TP
@@ -22,7 +39,7 @@
         </h2>
         </section>
         <!---section2---> 
-        <section class="section2">
+        <section class="section2" id="profile">
             <div class="container">
                 <div class="row">
                     <div class="col-md-8 cool-kiri">
@@ -39,15 +56,19 @@
                 </div>
             </div>
         </section>
+         <script type="text/javascript" src="js/wow.min.js"></script>        
+        <script type="text/javascript">
+         new WOW().init();
+        </script>
         <!----section3--->
-        <section class="section 3">
+        <section class="section 3" id="about us">
             <div class="container">
                 <div class="row">
                 <div class="col cool-kanan">
                     opsi 1
                 </div>
                 <div class="col">
-                    opsi 2
+                    <img src="img/logo.png">
                 </div>
                 <div class="col cool-kanan">
                     opsi 3  
