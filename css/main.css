@@ -4,7 +4,7 @@ body,html{
     background-attachment: fixed;
 }
 .section1{
-    color: #fff;
+    background-color: darkgray;
     background-size: cover;
     background-position: right;
     background-blend-mode: screen;
@@ -27,7 +27,7 @@ body,html{
 }
 .section2{
     padding: 50px 100px;
-    background-color: 
+    background-color: ;
 }
 .judul1{
     font-family;
@@ -43,7 +43,6 @@ body,html{
     text-align: center;
 }
 .cool-kiri{
-    background: white;
     font-family;
     font-weight: bold;
     padding: 50px 50px;
@@ -65,7 +64,7 @@ body,html{
 .section3{ 
     min-height: 300px;
     padding: 50px 0px;
-    background: #800000;
+    background-color: darkgray;
 }
 .link{
     text-align: center;
@@ -80,7 +79,7 @@ body,html{
 }
 .section4{
     padding: 50px 50px;
-    color: #dcdcdc;
+    background-color: darkgray;
 }
 .judul3{
     font-family;
