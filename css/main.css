@@ -13,13 +13,13 @@ body,html{
     padding: 100px 30px;
 }
 .judul{
-    font-family: cursive;
+    font-family;
     font-weight: bold;
     font-size: 30px;
     color: black;
 }
 .sub-judul{
-    font-family: cursive;
+    font-family;
     font-stretch: semi-condensed;
     font-size: 20px;
     color: black;
@@ -30,13 +30,13 @@ body,html{
     background-color: 
 }
 .judul1{
-    font-family: cursive;
+    font-family;
     font-size: 30px;
     color: black;
     font-weight: bold;
 }
 .sub-judul1{
-    font-family: monospace;
+    font-family;
     text-align: justify;
     font-size: 20px;
     color: black;
@@ -44,20 +44,20 @@ body,html{
 }
 .cool-kiri{
     background: white;
-    font-family: cursive;
+    font-family;
     font-weight: bold;
     padding: 50px 50px;
     text-align: center;
     color: black;
 }
 .cool-tengah{
-    font-family: cursive;
+    font-family;
     font-weight: bold;
     padding: 50px 50px;
     text-align: center;
 }
 .cool-kanan{
-    font-family: cursive;
+    font-family;
     font-weight: bold;
     padding: 50px 50px;
     text-align: center;
@@ -71,7 +71,7 @@ body,html{
     text-align: center;
     padding: 10px 20px;
     color: black;
-    font-family: cursive;
+    font-family;
 }
 .link:hover{
     background-color: dimgray;
@@ -83,7 +83,7 @@ body,html{
     color: #dcdcdc;
 }
 .judul3{
-    font-family: cursive;
+    font-family;
     font-size: 20px;
     align-content: center;
     color: black;
